@@ -8,18 +8,7 @@ You can click the Preview link to take a look at your changes.
 ### My name is Uri Ziv and I am a 4th-year software engineering student at Braude College of Engineering.
 ### Technology is my passion, and I'm always eager to learn, grow, and contribute to meaningful projects, take on new challenges and collaborate with others.
 
-# Socials 🌐
-<p align="left">
-<a href="https://www.linkedin.com/in/elad-krauz/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="https://www.linkedin.com/in/elad-krauz/" height="50" width="50"/>
-</a>
-<a href="https://www.facebook.com/eladkrauz" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Facebook.svg" alt="https://www.facebook.com/eladkrauz" height="50" width="50"/>
-</a>
-<a href="https://instagram.com/e.l.a.d" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" alt="eladkrauz" height="50" width="50"/>
-</a>
-</p>
+
 
 # My Latest Academic Projects 🧑🏻‍💻
 ## <a href="https://github.com/Eladkrauz/CryptoNews" target="blank">Crypto News</a> - A Cryptocurrency news aggregator 🪙</br>
